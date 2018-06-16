@@ -1,5 +1,10 @@
 # Dimensionality reduction and classification on Hyperspectral Images Using Python
 
+## Authors
+
+   * **DR.T.Hitendra Sarma**
+   * **Syam Kakarla**
+   
 ### Prerequisites
 
 The things that you must have a decent knowledge on: 
@@ -9,7 +14,7 @@ The things that you must have a decent knowledge on:
     * Linear Algebra
 ```
 
-### Installing
+### Installation
 
 * This project is fully based on python. So, the necessary modules needed for computaion are:
 ```
@@ -34,7 +39,7 @@ The things that you must have a decent knowledge on:
     import matplotlib.pyplot as plt
     import pandas as pd
 ```
-### Results :
+### Results 
 
    * Here we are performing the the **dimensionality reduction**  on the **hyperspectral image** called [Indian Pines](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)     
 
@@ -86,3 +91,7 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
          |  After PCA    |   60.098187   | 0.17700982 |
        
    * Hence, the **time** has been reduced with a lot of difference and the **classification accuracy(C.A)** also reduced but the  C.A can increased little bit by varying the 'k' value. 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
