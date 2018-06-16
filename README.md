@@ -72,3 +72,8 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
       
       ![indian_pines_accuracy_after_pca](https://user-images.githubusercontent.com/36328597/41495843-9753df04-714e-11e8-9540-0968bdb27a7f.JPG)
 
+### Conclusion :
+
+   * By performing **PCA** on the corrected indian pines dataset results **100 Principal Components(PC'S)**.
+   * since, the initial two Principal Components(PC'S) has **92.01839071674918** variance ratio. we selected two only.
+   * Initially the dataset contains the dimensions **21025 X 200** is drastically reduced to **21025 X 2** dimensions.
