@@ -61,7 +61,23 @@ plt.show()
 
 
 #---------------------------------------------------
-
+# Plotting pc1 & pc2
+fig = plt.figure(figsize = (8,8))
+ax = fig.add_subplot(1,1,1) 
+ax.set_xlabel('PC-1', fontsize = 15)
+ax.set_ylabel('PC-2', fontsize = 15)
+ax.set_title('PCA on INDIAN PINES Dataset', fontsize = 20)
+targets = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+colors = ['r','g','b','y','m','c','k','r','g','b','y','m','c','k','b','r']
+for target, color in zip(targets,colors):
+    indicesToKeep = finalDf['target'] == target
+    ax.scatter(finalDf.loc[indicesToKeep, 'PC-1']
+               , finalDf.loc[indicesToKeep, 'PC-2']
+               , c = color
+               , s = 9)
+ax.legend(targets)
+ax.grid()
+plt.show() # FOR SHOWING THE PLOT
 
 #-------------------SENDING REDUCED DATA INTO CSV FILE------------
 
