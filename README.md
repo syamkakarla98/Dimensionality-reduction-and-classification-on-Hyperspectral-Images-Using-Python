@@ -51,7 +51,8 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
       ![indian_pines_after_pca_with_2pc](https://user-images.githubusercontent.com/36328597/41495958-603d0baa-7151-11e8-9c7c-c7452b2fb6a8.JPG)
 
 
-      * The above program resullts a dimensionally reduced [csvfile] (https://github.com/syamkakarla98/Dimensionality-reduction-and- classification-on-Hyperspectral-Images-Using-Python/blob/master/indian_pines_after_pca.csv ) .
+   * The above program resullts a dimensionally reduced [csvfile](
+https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/indian_pines_after_pca.csv) .
  
 2. The result of the [indian_pines_knnc.py](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/Indian_pines_knnc.py) is given below:
 
@@ -59,3 +60,14 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
       * The time taken for classification is:
       
    ![indian_pines_accuracy_before_pca](https://user-images.githubusercontent.com/36328597/41495844-97a3e31e-714e-11e8-8d63-4d786317b239.JPG)
+      * Then the classification accuracy of indian pines dataset before **pca** is:
+      
+      
+   
+3. The result of the [indian_pines_knnc_after_pca.py](
+https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/Indian_pines_knnc_after_pca.py)
+
+   * Then the resultant classification accuracy of indian pines dataset after **pca** is:
+      
+      ![indian_pines_accuracy_after_pca](https://user-images.githubusercontent.com/36328597/41495843-9753df04-714e-11e8-9540-0968bdb27a7f.JPG)
+
