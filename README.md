@@ -35,10 +35,10 @@ The things that you must have a decent knowledge on:
 ```
 ### Results :
 
-   * Here we are performing the the **dimensionality reduction**  on the **hyperspectral image** called [Indian Pines]    (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes).
+   * Here we are performing the the **dimensionality reduction**  on the **hyperspectral image** called [Indian Pines](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)     
 
-
-1. The result of the [indian_pines_pca.py](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/indian_pines_pca.py) is shown below:
+1. The result of the [indian_pines_pca.py](
+https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/indian_pines_after_pca.csv) is shown below:
 
      * It initial result is a bargraph for the first **10 Pricipal Components according** to their _variance ratio's_ :
 
