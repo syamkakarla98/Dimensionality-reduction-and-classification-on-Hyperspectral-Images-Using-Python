@@ -2,7 +2,7 @@
 
 ## Authors
 
-   * **DR.T.Hitendra Sarma**
+   * [**DR.T.Hitendra Sarma**](https://scholar.google.co.in/citations?user=8Frh6IQAAAAJ&hl=en)
    * **Syam Kakarla**
    
 ### Prerequisites
@@ -94,4 +94,4 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/LICENSE.md) file for details
