@@ -3,7 +3,7 @@
 ## Authors
 
    * [**DR.T.Hitendra Sarma**](https://scholar.google.co.in/citations?user=8Frh6IQAAAAJ&hl=en)
-   * **Syam Kakarla**
+   * [**Syam Kakarla**](https://github.com/syamkakarla98?tab=repositories)
    
 ### Prerequisites
 
