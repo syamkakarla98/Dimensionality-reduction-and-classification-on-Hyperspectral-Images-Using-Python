@@ -85,10 +85,10 @@ https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-
    * Initially the dataset contains the dimensions **21025 X 200** is drastically reduced to **21025 X 2** dimensions.
    * The time taken for classification before and after Principal Component Analysis(PCA) is:
          
-         |   Dataset     |   Accuracy    | Time Taken |
-         | ------------- |:-------------:| ----------:|
-         |  Before PCA   |   72.748890   |  17.6010   |
-         |  After PCA    |   60.098187   | 0.17700982 |
+     |   Dataset     |   Accuracy    | Time Taken |
+     | ------------- |:-----------:  | ----------:|
+     |  Before PCA   |   72.748890   |  17.6010   |
+     |  After PCA    |   60.098187   | 0.17700982 |
        
    * Hence, the **time** has been reduced with a lot of difference and the **classification accuracy(C.A)** also reduced but the  C.A can increased little bit by varying the 'k' value. 
 
