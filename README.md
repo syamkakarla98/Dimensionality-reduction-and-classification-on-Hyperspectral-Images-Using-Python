@@ -19,7 +19,7 @@ The things that you must have a decent knowledge on:
 * This project is fully based on python. So, the necessary modules needed for computaion are:
 ```
     * Numpy
-    * Sklearm
+    * Sklearn
     * Matplotlib
     * Pandas
 ```
