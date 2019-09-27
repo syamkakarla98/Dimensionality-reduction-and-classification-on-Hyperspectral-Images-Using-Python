@@ -1,1 +1,1 @@
-# Dimensionality reduction on hyperspectral image _Pavia Univarsity_.
+### This notebook describes dimensionality reduction techiques PCA and KPCA on Pavia University dataset.
