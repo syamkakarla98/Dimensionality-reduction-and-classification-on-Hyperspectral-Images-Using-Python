@@ -1,1 +1,1 @@
-### This notebook describes dimensionality reduction techiques PCA and KPCA on Pavia University dataset.
+#### This notebook describes dimensionality reduction techiques PCA and KPCA on Pavia University dataset usign python.
