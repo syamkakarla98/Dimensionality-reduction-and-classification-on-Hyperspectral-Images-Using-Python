@@ -3,11 +3,11 @@
 ## Authors
 
    * [**DR.T.Hitendra Sarma**](https://scholar.google.co.in/citations?user=8Frh6IQAAAAJ&hl=en)
-   * [**Syam Kakarla**](https://github.com/syamkakarla98?tab=repositories)
+   * [**Syam Kakarla**](https://www.linkedin.com/in/syam-kakarla/)
    
 ### Prerequisites
 
-The things that you must have a decent knowledge on: 
+The prerequisites to better understang the code and concept are: 
 ```
     * Python
     * MatLab
@@ -41,7 +41,7 @@ The things that you must have a decent knowledge on:
 ```
 ### Results 
 
-   * Here we are performing the the **dimensionality reduction**  on the **hyperspectral image** called [Indian Pines](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)     
+   * Here we are performing the the **dimensionality reduction**  on one of the widely used **hyperspectral image** [Indian Pines](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)     
 
 1. The result of the [indian_pines_pca.py](
 https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python/blob/master/indian_pines_after_pca.csv) is shown below:
