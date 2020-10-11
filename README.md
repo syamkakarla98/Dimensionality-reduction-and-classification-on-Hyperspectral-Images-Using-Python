@@ -7,7 +7,7 @@
    
 ### Prerequisites
 
-The prerequisites to better understang the code and concept are: 
+The prerequisites to better understand the code and concept are: 
 ```
     * Python
     * MatLab
